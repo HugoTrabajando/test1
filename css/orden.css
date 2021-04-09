@@ -1,0 +1,25 @@
+* {
+	margin:0px;
+	padding-bottom:20px
+}
+
+.test1 {
+	float:left
+	
+}
+
+.test_color1 {
+	background:#00bcd4; height: 25%; width: 100%
+}
+
+.test_color2 {
+	background:#ffeb3b; height: 25%; width: 100%
+}
+
+.test_color3 {
+	background:orange; height: 25%; width: 100%
+}
+
+.test_color4 {
+	background:red; height: 25%; width: 100%
+}
